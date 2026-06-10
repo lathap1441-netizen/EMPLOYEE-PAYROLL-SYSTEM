@@ -15,6 +15,5 @@
 # ENTER DESCRIPTION OF TASK PERFORMED NOT LESS THAN 500 WORDS
 
 **OUTPUT OF THE TASK2**
-https://www.onlinegdb.com/online_java_compiler
 
 <img width="1904" height="1066" alt="Image" src="https://github.com/user-attachments/assets/d7852a26-b169-492e-a882-b18086d8beb2" />
